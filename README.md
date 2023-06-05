@@ -1,6 +1,6 @@
-
+<center>
 <img src="https://github.com/scopenhasse/scopenhasse/blob/main/mygif.gif" alt="Here is a little bit about me!" height="500" width="500">
-
+</center>
 <h1 align="center">Hi 👋, I'm ILYAS NHASSE</h1>
 <h3 align="center">A passionate Embedded System developer from Morocco</h3>
 
