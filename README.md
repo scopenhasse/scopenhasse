@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **check my email or my LinkedIn**
 
-- 📄 Know about my experiences [by visiting my LinkedIN](by visiting my LinkedIN)
+- 📄 Know about my experiences by visiting my LinkedIN
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
