@@ -20,9 +20,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Model-Based Design: ![Simulink](https://img.icons8.com/color/48/000000/simulink.png), ![Matlab](https://img.icons8.com/color/48/000000/matlab.png)
+Model-Based Design: Simulink, Matlab
 
-Embedded Platforms: ![DSP](https://img.icons8.com/color/48/000000/dsp.png), ![ZedBoard](https://img.icons8.com/office/48/000000/chip.png), ![Raspberry Pi4](https://img.icons8.com/color/48/000000/raspberry-pi.png), ![Arduino](https://img.icons8.com/color/48/000000/arduino.png), ![PIC16F877](https://img.icons8.com/color/48/000000/microcontroller.png), ![ARM 7](https://img.icons8.com/color/48/000000/arm.png)
+Embedded Platforms: DSP, ![ZedBoard](https://img.icons8.com/office/48/000000/chip.png), ![Raspberry Pi4](https://img.icons8.com/color/48/000000/raspberry-pi.png), ![Arduino](https://img.icons8.com/color/48/000000/arduino.png), ![PIC16F877](https://img.icons8.com/color/48/000000/microcontroller.png), ![ARM 7](https://img.icons8.com/color/48/000000/arm.png)
 
 Programming: ![C](https://img.icons8.com/color/48/000000/c-programming.png), ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png), ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png), ![C embedded](https://img.icons8.com/color/48/000000/c.png)
 
