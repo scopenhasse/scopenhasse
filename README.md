@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/scopenhasse/scopenhasse/blob/main/mygif.gif" alt="Here is a little bit about me!" d>
+<img src="https://github.com/scopenhasse/scopenhasse/blob/main/pic.jpg" alt="Here is a little bit about me!" d>
 </center>
 <h1 align="center">Hi 👋, I'm ILYAS NHASSE</h1>
 <h3 align="center">A passionate Embedded System developer from Morocco</h3>
